@@ -44,4 +44,4 @@ To test the site on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/odin-recipes.git
+   git clone https://github.com/Amanuel085/odin-recipes.git
