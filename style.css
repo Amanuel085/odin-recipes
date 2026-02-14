@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    background-image: url('backpick.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.page-title{
+    background-color: beige;
+}
+
+.first:hover{
+    width: 306px;
+    height: 306px;
+    border: 2px solid beige;
+}
+
+.second:hover{
+    width: 306px;
+    height: 306px;
+    border: 2px solid beige;
+}
+
+.third:hover{
+    width: 306px;
+    height: 306px;
+    border: 2px solid beige;
+}
+
+
+.first{
+    display: flex;
+    border: 2px solid black;
+    list-style: none;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: 20px;
+    background-color: beige;
+    
+}
+
+.second{
+    display: flex;
+    border: 2px solid black;
+    list-style: none;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: 20px;
+    background-color: beige;
+}
+
+.third{
+    display: flex;
+    border: 2px solid black;
+    list-style: none;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: 20px;
+    background-color: beige;
+}
+
